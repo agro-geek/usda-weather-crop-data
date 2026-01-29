@@ -36,6 +36,8 @@ This is an early sample. No guarantees on completeness or update frequency yet.
 I’m trying to understand whether this kind of cleaned, aligned agricultural data
 is useful to anyone working with ag, weather, or commodity data.
 
+If you use this or have feedback, feel free to open an issue or comment.
+
 **Question:**  
 Would this be useful to you, and what would you need to make it usable?
 
